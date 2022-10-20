@@ -8,7 +8,7 @@ I am really passionate about web designing. Have started with front-end and I en
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [odoforijude@gmail.com](mailto:odoforijude@gmail.com)
-* 🧠  I'm currently learning Responsive Web Designin
+* 🧠  I'm currently learning Responsive Web Designing
 * 🤝  I'm open to collaborating on Front-End Projects
 * ⚡  I am also a cyberseucurity lover that's my little secret. I am a huge enthusiast, anything tech actually.
 
